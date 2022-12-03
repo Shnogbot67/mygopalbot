@@ -23,11 +23,11 @@ User = Client(
 
 @Bot.on_message(filters.private & filters.command("start"))
 async def start_handler(_, event: Message):
-	await event.reply_photo("https://graph.org/file/a3edffe3cfaf3772508ca.jpg",
+	await event.reply_photo("https://telegra.ph/file/35857d4d81a27bf20bdeb.jpg",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-					[InlineKeyboardButton('Join Our Group', url='https://t.me/womrequest')],
-					[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/Worldofmovies8")],
+					[InlineKeyboardButton('Join Our Group', url='https://t.me/+x_SyirDsEUs4YmJl')],
+					[InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/SNG_Hubb")],
 					[InlineKeyboardButton("Help", callback_data="Help_msg"),
                                         InlineKeyboardButton("About", callback_data="About_msg")]
 				]))
@@ -47,7 +47,7 @@ async def help_handler(_, event: Message):
 async def inline_handlers(_, event: Message):
     if event.text == '/start':
         return
-    answers = f'**📂 Results For ➠ {event.text} \n\n➠ Type Only Movie Name With Correct Spelling.✍️\n➠ Add Year For Better Result.🗓️\n➠ Join @WORLDOFMOVIES8\n▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n**'
+    answers = f'**📂 Results For ➠ {event.text} \n\n➠ Type Only Movie Name With Correct Spelling.✍️\n➠ Add Year For Better Result.🗓️\n➠ Join @SNG_Hubb\n▰▱▰▱▰▱▰▱▰▱▰▱▰▱\n\n**'
     async for message in User.search_messages(chat_id=Config.CHANNEL_ID, limit=50, query=event.text):
         if message.text:
             thumb = None
@@ -76,10 +76,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton('Devoloper', url='https://t.me/royaldwip')
+						InlineKeyboardButton('Devoloper', url='https://t.me/Dreamer999')
 					],
 					[
-						InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8")
+						InlineKeyboardButton("Updates 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/SNG_Hubb")
 					],
 					[
 						InlineKeyboardButton("Home", callback_data="gohome")
@@ -95,10 +95,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-					InlineKeyboardButton('Group', url='https://t.me/womrequest')
+					InlineKeyboardButton('Our 2nd Group', url='https://t.me/+LZw5yV07LPw2ZjU1')
 					],
 					[
-					InlineKeyboardButton("Movie's 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8")
+					InlineKeyboardButton("Movie's 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/Maxx_hubb")
 					], 
                                         [
 					InlineKeyboardButton("Home", callback_data="gohome"),
@@ -115,10 +115,10 @@ async def button(bot, cmd: CallbackQuery):
 			reply_markup=InlineKeyboardMarkup(
 				[
                                         [
-					InlineKeyboardButton('Join Group', url='https://t.me/womrequest')
+					InlineKeyboardButton('Join Group', url='https://t.me/+x_SyirDsEUs4YmJl')
 					],
 					[
-					InlineKeyboardButton("Movie's 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/worldofmovies8")
+					InlineKeyboardButton("Movie's 𝙲𝚑𝚊𝚗𝚗𝚊𝚕", url="https://t.me/Maxx_hubb")
 					],
 					[
 					InlineKeyboardButton("Help", callback_data="Help_msg"),
