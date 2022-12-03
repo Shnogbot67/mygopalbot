@@ -38,7 +38,7 @@ async def help_handler(_, event: Message):
     await event.reply_text(Config.ABOUT_HELP_TEXT.format(event.from_user.mention),
         reply_markup=InlineKeyboardMarkup([
 		[InlineKeyboardButton('Youtube Channel', url='https://youtube.com/@ShNogTech')
-	 ],[InlineKeyboardButton("My Friend", url="https://t.me/Gopalbharbot"), 
+	 ],[InlineKeyboardButton("My Friend", url="https://t.me/Dreamer999"), 
              InlineKeyboardButton("𝙰𝚋𝚘𝚞𝚝", callback_data="About_msg")]
         ])
     )
