@@ -16,39 +16,42 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://youtube.com/@GreyMattersBot'>Link Search Bot</a>
+My Name: <a href='https://youtube.com/@GreyMattersBot'>Link Search Bot</a>
 
-📝 Language : <a href='https://www.python.org'> Python V3</a>
+Language : <a href='https://www.python.org'> Python V3</a>
 
-📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
+Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='koyeb.com'>Koyeb</a>
+Server: <a href='Google.com'>Private</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+Powered By: <a href='https://t.me/worldofmovies8'>WOM - BW Movies</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a>
-If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Developer : <a href='@royaldwip'>Private</a>
+ɪ Aᴍ Sɪᴍᴘʟᴇ Mᴏᴠɪᴇ Fɪɴᴅɪɴɢ Rᴏʙᴏᴛ.. 
+Iғ Yᴏᴜ Dᴏɴ'ᴛ Kɴᴏᴡ Hᴏᴡ Tᴏ Usᴇ Mᴇ? 
+Kᴏɪ Nᴀ Bᴀᴛᴀ Dᴇᴛʜᴀ Hᴏᴏɴ Mᴜᴊᴇ Kᴀɪsᴀ Usᴇ Kᴀʀᴇ! Wᴀsᴀ Yᴇ Mᴀᴛ Sᴀᴍᴊᴏ Mᴜᴊᴇ Eɴɢʟɪsʜ Nʜɪ Aᴛᴀ Hᴀɪɴ Mᴜᴊᴇ Aᴛᴀ Hᴀɪɴ Bᴜᴛ Bᴏʟᴛᴀ Nʜɪ Bᴇᴄᴀᴜsᴇ Eɴɢʟɪsʜ Iɴᴅɪᴀ Kᴀ Lᴀɴɢᴜᴀɢᴇ Nʜɪ HᴀɪN.. 
+Bᴜᴛ Fʜɪʀ Bʜɪ Bᴏʟᴛᴀ Hᴏᴏɴ Kʏᴀ Kᴀʀᴇ Bᴀᴄʜᴘᴀɴ Sᴇ Sɪᴋʜɴᴀ Pᴀʀᴀ Nʜɪ Tᴏʜ Sɪʀ Eɴɢʟɪsʜ Pᴀʀ Mᴀʀᴋs Kᴀᴍ Kᴀʀ Dᴇᴛʜᴀ Hᴀɪɴ 🤣\n\nBᴇ Sᴇʀɪᴏᴜs Oᴋᴀʏ.. \n\nHᴀɴ Tᴏʜ Mᴜᴊᴇ Bᴀs Mᴏᴠɪᴇ Kᴀ Nᴀᴍ Lɪᴋʜᴇ Dᴏ Mᴇ Aᴘᴋɪ Jᴀʀᴏʀᴀᴛ Kɪ Mᴏᴠɪᴇ Kᴀ Lɪɴᴋ Dᴜɴɢᴀ Bᴜᴛ Cᴏɴᴅɪᴛɪᴏɴ Hᴀɪɴ Aᴘ Mᴜᴊᴇ Gᴀʟᴀᴛ Sᴘᴇʟʟɪɴɢ Nʜɪ Dᴇ Sᴀᴋᴛᴇ Nʜɪ Tᴏʜ Mᴇ Aᴘᴋᴏ Mᴏᴠɪᴇ Nʜɪ Dᴇ Pᴀʏᴏɴɢᴀ Oᴋᴀʏ.. \n\nAᴜʀ Eᴋ Bᴀᴛ Aɢᴀʀ Mᴏᴠɪᴇ Mᴇʀᴇ Dᴀᴛᴀʙᴀsᴇ Pᴀʀ Nʜɪ Hᴀɪɴ Tᴏ Aᴘ Mᴇʀᴇ Oᴡɴᴇʀ Kᴏ Bᴏʟ Sᴀᴋᴛᴇ Hᴏᴏɴ Wᴏʜ Dᴀʟ Dᴇɢᴀ.. @Royaldwip\n\n🔴 Nᴏᴛᴇ :(\n(Pʜᴇʟᴇ Gᴏᴏɢʟᴇ Pᴇ Jᴀᴋᴇ Sᴘᴇʟʟɪɴɢ Cʜᴇᴋ Kᴀʀɴᴀ Fʜɪʀ Oᴡɴᴇʀ Kᴏ Bᴏʟɴᴀ Nʜɪ Tᴏ Bʟᴏᴄᴋ Bʜɪ Kᴀʀ Sᴀᴋᴛᴀ Hᴀɪɴ).</b>
 """
 
     HOME_TEXT = """
-<b>Hey! {}😅,
+<b>Hey! {},
 
-I'm Link Search Bot.🤖
+I'm Gopal Bhar Bot.
 
-I Can Search 🔍 What You Want❗
+I Can Search Movies & Series What You Want\nIn Correct Spelling!!! 
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Join Now @WORLDOFMOVIES8</a></b>
 """
 
 
     START_MSG = """
-<b>Hey! {}😅,
+<b>Hey! {},
 
-I'm Link Search Bot.🤖
+I'm Gopal Bhar Bot.
 
-I Can Search 🔍 What You Want❗
+I Can Search Movies & Series What You Want
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Join Now @WORLDOFMOVIES8</a></b>
 """
 
