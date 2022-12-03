@@ -16,7 +16,7 @@ class Config(object):
     
     
     
-My Name: <a href='https://youtube.com/@GreyMattersBot'>Gopal Bhar Bot</a>
+My Name: <a href='https://t.me/Gopalbharbot'>Gopal Bhar Bot</a>
 
 Language : <a href='https://www.python.org'> Python V3</a>
 
